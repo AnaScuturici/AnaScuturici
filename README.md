@@ -19,7 +19,7 @@ JavaScripting in Tokyo 🇯🇵
     </p>
 
 <a href="">
-  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=AnaScuturici&count_private=true&include_all_commits=true&show_icons=true&title_color=c58676&text_color=476d76&icon_color=c58676&bg_color=d6e9ee" />
+  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=AnaScuturici&count_private=true&include_all_commits=true&show_icons=true&title_color=476d76&text_color=476d76&icon_color=E34C26&bg_color=d6e9ee" />
 <a />
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaScuturici&layout=compact&title_color=c58676&text_color=476d76&icon_color=476d76&bg_color=d6e9ee)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaScuturici&layout=compact&title_color=476d76&text_color=476d76&icon_color=476d76&bg_color=d6e9ee)
