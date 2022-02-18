@@ -1,5 +1,3 @@
-JavaScripting in Tokyo 🇯🇵
-
 - 🙌 I'm currently open to: **Software Engineering | Frontend | Backend | Full-Stack Web/Mobile Development Roles**
 - 🤙 How to reach me: <a href="https://github.com/AnaScuturici" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="sctrc_n" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/ana-scuturici-549bb215b/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linked-in-anatechma" height="20" width="20" /></a>
