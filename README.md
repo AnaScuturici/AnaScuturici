@@ -1,4 +1,5 @@
-- I'm currently open to **frontend web development** positions, but definitely interested in full stack and/or mobile development in the future.
+- Software developer just starting out :woman_technologist:
+- I'm currently open to **frontend web development** positions, but definitely interested in exploring full stack and mobile development in the future.
 - How to reach me: <a href="https://github.com/AnaScuturici" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="sctrc_n" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/ana-scuturici-549bb215b/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linked-in-anatechma" height="20" width="20" /></a>
 <a href="https://instagram.com/sctrc_n" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sctrc_n" height="20" width="20" /></a>
