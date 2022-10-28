@@ -1,11 +1,10 @@
-- Software developer just starting out :woman_technologist:
-- I'm currently open to **frontend web development**
-- How to reach me: <a href="https://github.com/AnaScuturici" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="sctrc_n" height="20" width="20" /></a>
+- Open for **frontend web development** projects 
+- <a href="https://github.com/AnaScuturici" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="sctrc_n" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/ana-scuturici-549bb215b/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linked-in-anatechma" height="20" width="20" /></a>
 <a href="https://instagram.com/sctrc_n" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sctrc_n" height="20" width="20" /></a>
 <a href="https://twitter.com/anatechma" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter-anatechma" height="20" width="20" /></a>
 
-<h4 align="left">:hammer_and_wrench: Technologies and Tools I use:</h4>
+<h4 align="left">:hammer_and_wrench: Working with:</h4>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
